@@ -18,9 +18,9 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=comradexy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comradexy&theme=transparent&hide_border=true&layout=compact" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comradexy&theme=transparent&hide_border=true&layout=compact" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=comradexy&theme=transparent&hide_border=true&layout=compact" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=comradexy&theme=transparent&hide_border=true&layout=compact" />
 <br/>
 </p>
 
