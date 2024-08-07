@@ -20,7 +20,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comradexy&theme=transparent&hide_border=true&layout=compact" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=comradexy&theme=transparent&hide_border=true&layout=compact" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=comradexy&theme=transparent&hide_border=true&layout=compact" />
 <br/>
 </p>
 
